@@ -1,4 +1,5 @@
 # androidDlnabyPython
+鉴于android的dlna投屏需要cling或者Platinum，比较复杂 还有点bug，主要本地投屏需要建立httpserver，而且还有android版本的影响，本仓库
 通过python代码被android调用来完成dlna 图片或者电影的投屏
 
 # 说明
